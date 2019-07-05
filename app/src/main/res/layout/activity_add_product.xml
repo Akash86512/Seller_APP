@@ -55,6 +55,7 @@
 
 <ImageButton
     android:id="@+id/btnCamera"
+    android:background="@android:color/white"
     android:layout_gravity="center_horizontal"
     android:src="@drawable/ic_menu_camera"
     android:layout_width="wrap_content"
