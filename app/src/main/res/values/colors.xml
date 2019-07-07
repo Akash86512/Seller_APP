@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#160209</color>
     <color name="bgBottomNavigation">#008577</color>
+    <color name="black">#C4000000</color>
 </resources>

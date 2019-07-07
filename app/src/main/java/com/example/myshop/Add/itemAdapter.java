@@ -12,7 +12,12 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.myshop.AddProduct;
+import com.example.myshop.Bagkg;
+import com.example.myshop.Cartoonboxpices;
+import com.example.myshop.Cartoonlaripices;
+import com.example.myshop.Cartoonpices;
+import com.example.myshop.Onlybag;
+import com.example.myshop.Onlycartoon;
 import com.example.myshop.R;
 
 import java.util.ArrayList;
@@ -76,7 +81,7 @@ public class itemAdapter extends RecyclerView.Adapter<itemViewHolder> {
         final item s = items.get(position);
 
         holder.txttitle.setText(s.getTitle());
-        holder.ImgIcon.setImageResource(s.getImage());
+       // holder.ImgIcon.setImageResource(s.getImage());
 
         holder.setItemClickListner(new ItemClickListner() {
             @Override
@@ -84,9 +89,31 @@ public class itemAdapter extends RecyclerView.Adapter<itemViewHolder> {
                 Toast.makeText(c,""+position , Toast.LENGTH_LONG).show();
 
                 if (position==0){
-                    Intent i=new Intent(c, AddProduct.class);
+                    Intent i=new Intent(c, Onlycartoon.class);
                     c.startActivity(i);
                 }
+                if (position==1){
+                    Intent i=new Intent(c, Cartoonboxpices.class);
+                    c.startActivity(i);
+                }
+                if (position==2){
+                    Intent i=new Intent(c, Cartoonpices.class);
+                    c.startActivity(i);
+                }
+                if (position==3){
+                    Intent i=new Intent(c, Cartoonlaripices.class);
+                    c.startActivity(i);
+                }
+                if (position==4){
+                    Intent i=new Intent(c, Onlybag.class);
+                    c.startActivity(i);
+                }
+                if (position==5){
+                    Intent i=new Intent(c, Bagkg.class);
+                    c.startActivity(i);
+                }
+
+
 
 
             }

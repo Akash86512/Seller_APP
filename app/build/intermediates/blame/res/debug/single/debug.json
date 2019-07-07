@@ -20,12 +20,12 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_color_selector.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c575f0d4d6814b46a12bbc41034eace4\\res\\color\\mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -48,20 +48,20 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ab037e1a42b5a50916a78a590df53156\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
@@ -84,12 +84,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c575f0d4d6814b46a12bbc41034eace4\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c575f0d4d6814b46a12bbc41034eace4\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
@@ -300,12 +300,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-v21\\abc_list_divider_material.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -332,12 +332,12 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -444,16 +444,16 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_hide_motion_spec.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c575f0d4d6814b46a12bbc41034eace4\\res\\animator\\design_fab_hide_motion_spec.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_hide_motion_spec.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c575f0d4d6814b46a12bbc41034eace4\\res\\animator\\design_fab_hide_motion_spec.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -688,6 +688,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cartoonboxpices.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\layout\\activity_cartoonboxpices.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\c575f0d4d6814b46a12bbc41034eace4\\res\\layout\\design_layout_tab_text.xml"
     },
@@ -828,6 +832,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bagkg.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\layout\\activity_bagkg.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -842,6 +850,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cartoonlaripices.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\layout\\activity_cartoonlaripices.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1146,6 +1158,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_approval.xml.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\layout\\fragment_approval.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cartoonpices.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\layout\\activity_cartoonpices.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1548,6 +1564,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onlybag.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\layout\\activity_onlybag.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
     },
@@ -1698,6 +1718,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\677061e83a0b9c452829bbedb2c68ddb\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onlycartoon.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\src\\main\\res\\layout\\activity_onlycartoon.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyShop2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",

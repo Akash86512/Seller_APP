@@ -8,8 +8,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.myshop.Add.itemAdapter;
-import com.example.myshop.Add.itemCollection;
 import com.example.myshop.R;
 
 

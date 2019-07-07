@@ -24,6 +24,12 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.myshop.AddProduct" />
+        <activity android:name="com.example.myshop.Bagkg" />
+        <activity android:name="com.example.myshop.Onlybag" />
+        <activity android:name="com.example.myshop.Cartoonlaripices" />
+        <activity android:name="com.example.myshop.Cartoonpices" />
+        <activity android:name="com.example.myshop.Cartoonboxpices" />
+        <activity android:name="com.example.myshop.Onlycartoon" />
         <activity
             android:name="com.example.myshop.MainActivity"
             android:label="@string/app_name"
