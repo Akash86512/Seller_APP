@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Onlybag">
+
+    <RelativeLayout
+        android:id="@+id/rel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Item (Only bag)"
+            android:textSize="15sp"
+            android:layout_margin="5dp"
+            android:textColor="@color/black"/>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pin Code  "/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="843125  "/>
+
+
+        </LinearLayout>
+    </RelativeLayout>
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rel1"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/itemimagebag"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="20dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/dairy" />
+
+            <ImageButton
+                android:id="@+id/gallerybtbag"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/ic_menu_camera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Brand Name"
+                android:textSize="12sp"
+                android:textStyle="normal"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <EditText
+              android:id="@+id/brandnamebag"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="15sp"
+                android:inputType="text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_below="@+id/img"
+                android:text="Item Name"
+                android:textSize="12sp"
+                android:textStyle="normal"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <EditText
+               android:id="@+id/itemnamebag"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="15sp"
+                android:inputType="text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView
+                    android:text="1 Bag price"
+                    android:textSize="12sp"
+                    android:layout_alignParentLeft="true"                android:textStyle="normal"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="Quantity"
+                    android:textSize="12sp"
+                    android:id="@+id/quantity1"
+                    android:layout_centerInParent="true"                android:textStyle="normal"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+
+
+                <TextView
+                    android:text="Units"
+                    android:textSize="12sp"
+                    android:layout_alignParentRight="true"                android:textStyle="normal"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="70dp"
+                    android:layout_toRightOf="@+id/quantity1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+
+                <EditText
+                    android:id="@+id/onebagpricebag"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="6dp"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="normal" />
+
+
+                <EditText
+
+                    android:textSize="15sp"
+                    android:layout_centerInParent="true"                android:textStyle="normal"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/black"
+                    android:layout_width="100dp"
+                    android:id="@+id/onebagquantitybag"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:layout_height="wrap_content" />
+
+
+                <Spinner
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/unitbag"
+                    android:gravity="center"
+                    android:layout_toRightOf="@+id/onebagquantitybag"
+                    android:layout_marginLeft="30dp">
+
+
+
+                </Spinner>
+
+
+            </RelativeLayout>
+
+
+
+
+
+            <TextView
+                android:text="Item Description"
+                android:textSize="12sp"
+                android:textStyle="normal"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="15sp"
+                android:inputType="text"
+                android:id="@+id/itemdescriptionbag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="30dp"
+                android:id="@+id/btbag"
+                android:text="Add Item"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
